@@ -1,0 +1,24 @@
+Total [100]: 92
+
+Program runs [20]: -2
+Yes, but how do we select a different live cells pattern.
+
+Test quality [20]:
+
+Test Coverage [10]:
+
+Code quality [10]: -3
+neighbor_count This method is too crowded, requires some strong
+refactoring to follow single responsibility principle.
+
+Design quality [10]: -3
+set_cell_alive Does not belong here, in this file.
+next_grid Does not belong here, in this file.
+within_grid? and grid_indexes_greater_than_zero can be combined.
+
+GUI code quality [10]:
+Directory structure, etc. [10]:
+Response to questions [10]:
+
+The program runs always when rake is run. Instead, it should run only when
+a run task is selected (or as a default), but not when only test is run.

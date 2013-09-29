@@ -1,0 +1,21 @@
+Assign1: Due 11:59PM September 24th
+
+Using Test First Development implement the program that we designed in HW1.
+Do not let the design that was created in HW1 constraint us.
+
+When you complete the coding (and only after you do), answer the following:
+
+Compare the design that's living in the code with the design we came up with in HW1.
+
+We thought we needed more classes and relationships in our intial design. In the end, we did not need a cell class, board class, game class or a driver. 
+We did not use classes at all thus making the program lightweight and stateless.  We also did not end up using fxRuby because it was very complicated and required more knowledge than we had at the time. We ended up using the green_shoes ruby gem for the GUI.
+
+What are some of the things you learned while working on this assignment, take away
+points that will help us in future design/development.
+
+When refactoring and using test driven development we realized we did not need as much code initially and the design of the program improved in quality. 
+By making the program stateless we did not have to worry about carrying objects around and having them break or mutate. We also made sure methods had single resposibility which made methods easier to test. All of this will make things much clearer and easier in future assignments and projects.
+
+Did you have fun working on the assignment?
+
+This assignment was a lot of fun to work on and it was very challenging. We wont need a haircut in a few weeks since we pulled it all out.
